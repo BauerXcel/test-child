@@ -1,2 +1,2 @@
-env: prod
-amount: 666
+env: dev
+amount: 123
